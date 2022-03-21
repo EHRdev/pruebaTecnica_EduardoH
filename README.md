@@ -6,7 +6,7 @@
 
 <!-- Name -->
 <h1 align="center">
-  <a href="https://github.com/EHRdev/YouDownloader">Prueba Técnica </a>:rocket:<span style="font-variant-caps: petite-caps;font-size: 20px;font-weight: 200;"> Por: Eduardo Hernández </span>
+  <a href="https://github.com/EHRdev/pruebaTecnica_EduardoH">Prueba Técnica </a>:rocket:<span> Por: Eduardo Hernández</span>
 </h1>
 
 <!-- Badges -->
