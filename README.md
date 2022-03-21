@@ -33,23 +33,16 @@
   <img src="https://user-images.githubusercontent.com/40396000/159289164-ff8fbdcb-24ca-4d2b-a528-c2f9549f87d3.jpg">
   <img src="https://user-images.githubusercontent.com/40396000/159289166-f7d57445-1a6c-4e2d-88e0-7af2ce6353a4.jpg">
   <img src="https://user-images.githubusercontent.com/40396000/159289667-355bc573-fc60-49e6-9983-255b6cd95487.jpg">
-
 </p>
+
+![myfile](https://i.imgur.com/D2yvYqM.gif)
+![myfile](https://i.imgur.com/D2yvYqM.gifv)
 
 <!-- Screens iOs -->
 
 ## Demo iOS
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/40396000/140002137-951909b9-5099-427c-8c35-a4268a5157c9.PNG">
-  <img src="https://user-images.githubusercontent.com/40396000/140002138-0dae39b4-4204-45c8-bd61-940fe909f5da.PNG">
-  <img src="https://user-images.githubusercontent.com/40396000/140002139-b92d35e4-7a31-4963-8e84-d4419b1dc324.PNG">
-  <img src="https://user-images.githubusercontent.com/40396000/140002141-4f210e8a-f37a-4c24-8cda-03e8f01b40b0.PNG">
-  <img src="https://user-images.githubusercontent.com/40396000/140002142-07df91e4-03f2-4578-80c7-a4e50d1a19ee.PNG">
-  <img src="https://user-images.githubusercontent.com/40396000/140002144-b5fac103-cbb1-436b-bde0-f12296e1b6cc.PNG">
-  <img src="https://user-images.githubusercontent.com/40396000/140002145-5657d386-6b86-431e-ab55-6e2c702caf15.PNG">
-  <img src="https://user-images.githubusercontent.com/40396000/140002146-1a49c9ca-fc65-46b3-bae3-ba40fe21266c.PNG">
-</p>
+Subiendo Capturas de pantalla iOS ...
 
 ## 🌟 Funcionalidades
 
