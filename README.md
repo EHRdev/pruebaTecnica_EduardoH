@@ -6,7 +6,7 @@
 
 <!-- Name -->
 <h1 align="center">
-  <a href="https://github.com/EHRdev/YouDownloader">Prueba Técnica </a>:rocket:<span style="font-variant-caps: petite-caps;font-size: 20px;font-weight: 200;"> Por: Eduardo Hernández </span>:rocket:
+  <a href="https://github.com/EHRdev/YouDownloader">Prueba Técnica </a>:rocket:<span style="font-variant-caps: petite-caps;font-size: 20px;font-weight: 200;"> Por: Eduardo Hernández </span>
 </h1>
 
 <!-- Badges -->
@@ -27,14 +27,13 @@
 ## Demo Android
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/40396000/140002017-1f45760e-3f8a-4ff4-9714-5576ac590150.png">
-  <img src="https://user-images.githubusercontent.com/40396000/140002019-08b3e15d-ef7a-4613-b9ef-f83e8dc445b6.png">
-  <img src="https://user-images.githubusercontent.com/40396000/140002020-d70a2909-7b19-46dc-878c-34b028eb3d04.png">
-  <img src="https://user-images.githubusercontent.com/40396000/140002021-29390770-9d23-475a-9a57-2056183197b9.png">
-  <img src="https://user-images.githubusercontent.com/40396000/140002022-fd6c5383-4b55-424f-a209-81a8aa261acf.png">
-  <img src="https://user-images.githubusercontent.com/40396000/140002023-45e605c3-3e6c-4861-85a5-0000bcf062bc.png">
-  <img src="https://user-images.githubusercontent.com/40396000/140002027-acae2ebb-0586-46b4-b07b-6477688cda75.png">
-  <img src="https://user-images.githubusercontent.com/40396000/140002024-452de740-3cbb-437f-9743-ab9e12483eb6.png">
+  <img src="https://user-images.githubusercontent.com/40396000/159289156-1b3211d4-02f5-4444-b1c8-762761fe631f.jpg">
+  <img src="https://user-images.githubusercontent.com/40396000/159289158-3794f067-2ed1-4af5-995d-fe1fd8e6931b.jpg">
+  <img src="https://user-images.githubusercontent.com/40396000/159289161-e7bafac7-e3a6-4a5f-80f3-d5420707c8eb.jpg">
+  <img src="https://user-images.githubusercontent.com/40396000/159289164-ff8fbdcb-24ca-4d2b-a528-c2f9549f87d3.jpg">
+  <img src="https://user-images.githubusercontent.com/40396000/159289166-f7d57445-1a6c-4e2d-88e0-7af2ce6353a4.jpg">
+  <img src="https://user-images.githubusercontent.com/40396000/159289667-355bc573-fc60-49e6-9983-255b6cd95487.jpg">
+
 </p>
 
 <!-- Screens iOs -->
@@ -54,37 +53,37 @@
 
 ## 🌟 Funcionalidades
 
-- Descarga música en formato MP3 🎵
-- Descarga videos de YouTube en formato MP4 ⚡
-- Historial de Descargas
+- Lista todos los Super Héroes de Marvel
+- Visualiza la biografía de cada Héroe
+- Guarda en Favoritos a tus Héroes (LocalStorage)
+
+### 💎 Librerías y Frameworks
+- [React Native](https://reactnative.dev)
+- [React Native Paper](https://callstack.github.io/react-native-paper)
+- [React Native LocalStorage](https://github.com/react-native-async-storage/async-storage)
+- [React Native Navigation](https://reactnavigation.org/docs/getting-started)
 
 ## 💻 Ejecutar localmente
 
 Estas instrucciones le proporcionarán una copia del proyecto en funcionamiento en su máquina con fines de desarrollo y pruebas.
 
-1. Instalar [NodeJs](https://nodejs.org/en/)
 1. Clona el repositorio en tu PC
 
     ```
-    git clone https://github.com/EHRdev/YouDownloader.git
+    git clone https://github.com/EHRdev/pruebaTecnica_EduardoH.git
     ```
 
-2.  Entra en la raíz del proyecto
+2.  Entra en la raíz del proyecto e instala dependencia de Node
 
     ```
-    cd YouDownloader
+    cd pruebaTecnica_EduardoH
+    npm i --legacy-peer-deps
     ```
 
-3.  Instala las dependencias de NodeJS
+3.  Ejecuta la apliación en dispositivo android ;)
 
     ```
-    npm install
-    ```
-
-4.  Ejecuta la app ;)
-
-    ```
-    npm start
+    npx react-native run-android --no-jetifier
     ```
 ### 💎 Librerías y Frameworks
 - [React Native](https://reactnative.dev/)
