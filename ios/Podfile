@@ -13,6 +13,7 @@ target 'pruebaTecnica' do
   )
 
   pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+  pod 'boost', :podspec => '../node_modules/react-native/third-party-podspecs/boost.podspec'
 
   target 'pruebaTecnicaTests' do
     inherit! :complete
