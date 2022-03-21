@@ -1,18 +1,18 @@
 <!-- Logo -->
 <p align="center">
   <a href="https://github.com/EHRdev/pruebaTecnica_EduardoH">
-    <img src="https://user-images.githubusercontent.com/40396000/159285125-496b4c43-11cb-44b8-a6eb-deea5fd528bf.png">
+    <img src="https://user-images.githubusercontent.com/40396000/159297613-3db5f63c-3780-4c95-b16e-b2293657cbf7.png">
   </a>
 
 <!-- Name -->
 <h1 align="center">
-  <a href="https://github.com/EHRdev/YouDownloader">Prueba Técnica </a>:rocket:<span style="font-variant-caps: petite-caps;font-size: 20px;font-weight: 200;"> Por: Eduardo Hernández </span>
+  <a href="https://github.com/EHRdev/pruebaTecnica_EduardoH">Prueba Técnica </a>:rocket:<span> Por: Eduardo Hernández</span>
 </h1>
 
 <!-- Badges -->
 <p align="center">
   <a href="https://reactnative.dev/">
-    <img src="https://img.shields.io/badge/app-reactnative-purple?style=for-the-badge&logo=react">
+    <img src="https://img.shields.io/badge/reactnative-FrameWork-purple?style=for-the-badge&logo=react">
   </a>
   <a href="https://reactnative.dev/">
     <img src="https://img.shields.io/badge/app-android-%231bb081?style=for-the-badge&logo=android">
@@ -22,8 +22,13 @@
   </a>
 </p>
 
-<!-- Screens Android -->
+<!-- Videos -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/40396000/159323222-56c9e77e-44e8-4217-b046-f78ae87a549f.gif">
+  <img src="https://user-images.githubusercontent.com/40396000/159323378-97db390c-9305-40dc-a7a3-d582e3c2860c.gif">
+</p>
 
+<!-- Screens Android -->
 ## Demo Android
 
 <p align="center">
@@ -33,23 +38,12 @@
   <img src="https://user-images.githubusercontent.com/40396000/159289164-ff8fbdcb-24ca-4d2b-a528-c2f9549f87d3.jpg">
   <img src="https://user-images.githubusercontent.com/40396000/159289166-f7d57445-1a6c-4e2d-88e0-7af2ce6353a4.jpg">
   <img src="https://user-images.githubusercontent.com/40396000/159289667-355bc573-fc60-49e6-9983-255b6cd95487.jpg">
-
 </p>
 
 <!-- Screens iOs -->
-
 ## Demo iOS
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/40396000/140002137-951909b9-5099-427c-8c35-a4268a5157c9.PNG">
-  <img src="https://user-images.githubusercontent.com/40396000/140002138-0dae39b4-4204-45c8-bd61-940fe909f5da.PNG">
-  <img src="https://user-images.githubusercontent.com/40396000/140002139-b92d35e4-7a31-4963-8e84-d4419b1dc324.PNG">
-  <img src="https://user-images.githubusercontent.com/40396000/140002141-4f210e8a-f37a-4c24-8cda-03e8f01b40b0.PNG">
-  <img src="https://user-images.githubusercontent.com/40396000/140002142-07df91e4-03f2-4578-80c7-a4e50d1a19ee.PNG">
-  <img src="https://user-images.githubusercontent.com/40396000/140002144-b5fac103-cbb1-436b-bde0-f12296e1b6cc.PNG">
-  <img src="https://user-images.githubusercontent.com/40396000/140002145-5657d386-6b86-431e-ab55-6e2c702caf15.PNG">
-  <img src="https://user-images.githubusercontent.com/40396000/140002146-1a49c9ca-fc65-46b3-bae3-ba40fe21266c.PNG">
-</p>
+Subiendo Capturas de pantalla iOS ...
 
 ## 🌟 Funcionalidades
 
@@ -85,8 +79,5 @@ Estas instrucciones le proporcionarán una copia del proyecto en funcionamiento 
     ```
     npx react-native run-android --no-jetifier
     ```
-### 💎 Librerías y Frameworks
-- [React Native](https://reactnative.dev/)
-- [React Native Paper](https://callstack.github.io/react-native-paper/)
-- [React Native Ytdl](https://github.com/ytdl-js/react-native-ytdl)
-- [React Native Fetch Blob](https://github.com/joltup/rn-fetch-blob)
+
+Más info en https://reactnative.dev/docs/environment-setup 
