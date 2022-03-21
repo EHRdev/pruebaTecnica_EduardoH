@@ -1,7 +1,7 @@
 <!-- Logo -->
 <p align="center">
   <a href="https://github.com/EHRdev/pruebaTecnica_EduardoH">
-    <img src="https://user-images.githubusercontent.com/40396000/159285125-496b4c43-11cb-44b8-a6eb-deea5fd528bf.png">
+    <img src="https://user-images.githubusercontent.com/40396000/159297613-3db5f63c-3780-4c95-b16e-b2293657cbf7.png">
   </a>
 
 <!-- Name -->
@@ -12,7 +12,7 @@
 <!-- Badges -->
 <p align="center">
   <a href="https://reactnative.dev/">
-    <img src="https://img.shields.io/badge/app-reactnative-purple?style=for-the-badge&logo=react">
+    <img src="https://img.shields.io/badge/reactnative-FrameWork-purple?style=for-the-badge&logo=react">
   </a>
   <a href="https://reactnative.dev/">
     <img src="https://img.shields.io/badge/app-android-%231bb081?style=for-the-badge&logo=android">
@@ -85,8 +85,5 @@ Estas instrucciones le proporcionarán una copia del proyecto en funcionamiento 
     ```
     npx react-native run-android --no-jetifier
     ```
-### 💎 Librerías y Frameworks
-- [React Native](https://reactnative.dev/)
-- [React Native Paper](https://callstack.github.io/react-native-paper/)
-- [React Native Ytdl](https://github.com/ytdl-js/react-native-ytdl)
-- [React Native Fetch Blob](https://github.com/joltup/rn-fetch-blob)
+
+Más info en https://reactnative.dev/docs/environment-setup 
