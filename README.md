@@ -22,8 +22,13 @@
   </a>
 </p>
 
-<!-- Screens Android -->
+<!-- Videos -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/40396000/159323222-56c9e77e-44e8-4217-b046-f78ae87a549f.gif">
+  <img src="https://user-images.githubusercontent.com/40396000/159323378-97db390c-9305-40dc-a7a3-d582e3c2860c.gif">
+</p>
 
+<!-- Screens Android -->
 ## Demo Android
 
 <p align="center">
@@ -35,11 +40,7 @@
   <img src="https://user-images.githubusercontent.com/40396000/159289667-355bc573-fc60-49e6-9983-255b6cd95487.jpg">
 </p>
 
-![myfile](https://i.imgur.com/D2yvYqM.gif)
-![myfile](https://i.imgur.com/D2yvYqM.gifv)
-
 <!-- Screens iOs -->
-
 ## Demo iOS
 
 Subiendo Capturas de pantalla iOS ...
