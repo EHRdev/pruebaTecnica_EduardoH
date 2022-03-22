@@ -22,14 +22,14 @@
   </a>
 </p>
 
-<!-- Videos -->
+<!-- Video Android -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/40396000/159323222-56c9e77e-44e8-4217-b046-f78ae87a549f.gif">
   <img src="https://user-images.githubusercontent.com/40396000/159323378-97db390c-9305-40dc-a7a3-d582e3c2860c.gif">
 </p>
 
 <!-- Screens Android -->
-## Demo Android
+## Screenshots Android
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/40396000/159289156-1b3211d4-02f5-4444-b1c8-762761fe631f.jpg">
@@ -40,8 +40,17 @@
   <img src="https://user-images.githubusercontent.com/40396000/159289667-355bc573-fc60-49e6-9983-255b6cd95487.jpg">
 </p>
 
+<!-- Videos -->
+<h1 align="center">
+  Preview iOS
+</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/40396000/159406112-87f7cbc2-7ef7-42b1-93c8-2ae43591f4d8.gif">
+  <img src="https://user-images.githubusercontent.com/40396000/159406127-7edeae16-e6f3-4f9b-b8c9-6f444c070b2e.gif">
+</p>
+
 <!-- Screens iOs -->
-## Demo iOS
+## Screenshots iOS
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/40396000/159404345-cc3ed432-17b7-44de-8484-86b4b3e2a700.PNG">
@@ -54,9 +63,9 @@
 
 ## 🌟 Funcionalidades
 
-- Lista todos los Super Héroes de Marvel
-- Visualiza la biografía de cada Héroe
-- Guarda en Favoritos a tus Héroes (LocalStorage)
+- Listar todos los superhéroes en un Grid
+- Visualizar la biografía de cada superhéroe
+- Guardar en "Favoritos" a los superhéroes (LocalStorage)
 
 ### 💎 Librerías y Frameworks
 - [React Native](https://reactnative.dev)
